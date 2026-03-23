@@ -1,0 +1,29 @@
+# macOS metadata files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows metadata files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Editor/IDE directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node / npm (in case tooling is added)
+node_modules/
+npm-debug.log*
+
+# Environment files – never commit secrets
+.env
+.env.*
+!.env.example

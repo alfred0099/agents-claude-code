@@ -4,10 +4,10 @@
 
 > **Transform Claude Code into your personal tech army with 100 hyper-specialized AI agents.** Expert assistance for React, Vue, Angular, AWS, Kubernetes, Python, Rust, Go, Machine Learning, DevOps, Security, and more.
 
-[![GitHub stars](https://img.shields.io/github/stars/lorenzodetomasi/elite-claude-agents?style=social)](https://github.com/lorenzodetomasi/elite-claude-agents)
+[![GitHub stars](https://img.shields.io/github/stars/alfred0099/agents-claude-code?style=social)](https://github.com/alfred0099/agents-claude-code)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Compatible](https://img.shields.io/badge/Claude%20Code-Compatible-blue)](https://claude.ai)
-[![Agents: 100](https://img.shields.io/badge/Agents-100-green)](https://github.com/lorenzodetomasi/elite-claude-agents)
+[![Agents: 100](https://img.shields.io/badge/Agents-100-green)](https://github.com/alfred0099/agents-claude-code)
 
 ## 🎯 What is Elite Claude Agents?
 
@@ -29,7 +29,7 @@ Imagine having instant access to 100 world-class specialists, each a master of t
 ```bash
 # Install in seconds
 cd ~/.claude
-git clone https://github.com/lorenzodetomasi/elite-claude-agents.git agents
+git clone https://github.com/alfred0099/agents-claude-code.git agents
 
 # That's it. You're now unstoppable.
 ```
@@ -39,12 +39,12 @@ git clone https://github.com/lorenzodetomasi/elite-claude-agents.git agents
 **For Windows Users:**
 ```powershell
 cd %USERPROFILE%\.claude
-git clone https://github.com/lorenzodetomasi/elite-claude-agents.git agents
+git clone https://github.com/alfred0099/agents-claude-code.git agents
 ```
 
 **Using Claude Code CLI:**
 ```bash
-claude code install lorenzodetomasi/elite-claude-agents
+claude code install alfred0099/agents-claude-code
 ```
 
 ## 🎯 How to Use Elite Agents with Claude Code - Step by Step
@@ -60,7 +60,7 @@ When you install the agents in `~/.claude/agents/`, Claude Code automatically:
 ### Step 1: Install the Agents
 ```bash
 cd ~/.claude
-git clone https://github.com/lorenzodetomasi/elite-claude-agents.git agents
+git clone https://github.com/alfred0099/agents-claude-code.git agents
 ```
 
 This creates the structure:
@@ -397,10 +397,10 @@ Found a way to improve an agent? Have ideas for new specialists? Contributions a
 
 If Elite Claude Agents helps you ship better code faster, please star the repository!
 
-[![Star on GitHub](https://img.shields.io/github/stars/lorenzodetomasi/elite-claude-agents?style=social)](https://github.com/lorenzodetomasi/elite-claude-agents)
+[![Star on GitHub](https://img.shields.io/github/stars/alfred0099/agents-claude-code?style=social)](https://github.com/alfred0099/agents-claude-code)
 
 ---
 
 **Elite Claude Agents** - *Transform Claude Code into Your Personal Tech Army*
 
-*🔗 [GitHub](https://github.com/lorenzodetomasi/elite-claude-agents) | 💬 [Issues](https://github.com/lorenzodetomasi/elite-claude-agents/issues) | 📚 [Documentation](https://github.com/lorenzodetomasi/elite-claude-agents/wiki)*
+*🔗 [GitHub](https://github.com/alfred0099/agents-claude-code) | 💬 [Issues](https://github.com/alfred0099/agents-claude-code/issues) | 📚 [Documentation](https://github.com/alfred0099/agents-claude-code/wiki)*
